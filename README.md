@@ -42,6 +42,8 @@
 
 11. [odoo 觀念 - AbstractModel](demo_abstractmodel_tutorial)
 
+12. [odoo 觀念 - 實作 config settings](demo_config_settings)
+
 ## 其他
 
 * [Youtube Tutorial - 使用 CLI 安裝,更新 addons](https://youtu.be/k19N2x8f4gw)
